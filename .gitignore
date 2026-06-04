@@ -1,0 +1,31 @@
+# Data and models - DO NOT COMMIT
+data/
+*.mp4
+*.avi
+*.mkv
+*.pt
+*.onnx
+*.engine
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+dist/
+build/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+pgdata/
+
+# OS
+.DS_Store
+Thumbs.db
